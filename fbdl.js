@@ -13,4 +13,3 @@ const memekFb = async (link) => {
   console.log(res)
 }
 
-module.export = { memekFb }
